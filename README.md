@@ -1,5 +1,5 @@
-# Elizabeth_test
-Test repository for tutorial
+# Elizabeth's Demo Repository
+This repository is a test repository for tutorial following the Delta Workshop lessons.
 
 ## Purpose
 - Practice creating a remote repository
